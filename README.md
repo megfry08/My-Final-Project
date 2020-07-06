@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="author" content="Megan Fryer">
-<title>My Final Project</title>
 </head>
 <body>
 	<header>
@@ -27,13 +26,11 @@
 <section>
 	<h2>Achievements</h2>
 		Progress in this course (100%)
-		<progress value="100" max ="100"></progress>
-		<br>
+		<progress value="100" max ="100"></progress><br>
 		Progress in the Specialization Capstone (20%)
-		<progress value ="20" max ="100"></progress>
-		<br>
+		<progress value ="20" max ="100"></progress><br>
 		Progress in life goals (40%)
-		<progress value ="40" max ="100"></progress>
+		<progress value ="40" max ="100"></progress><br>
 </section>
 <section>
 	<h2>More About Me</h2>
